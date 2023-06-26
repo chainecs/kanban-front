@@ -1,5 +1,5 @@
 # kanban-front
-React.js + Vite.js
+React.js (18) + Vite.js
 
 # How to run project
 
