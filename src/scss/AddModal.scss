@@ -1,0 +1,16 @@
+@import "./base";
+
+.add-modal {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: $modalWidth;
+  width: 80%;
+  text-align: left;
+}
+
+.add-description {
+  height: 30px;
+}

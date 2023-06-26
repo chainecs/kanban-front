@@ -1,0 +1,9 @@
+@import "./base";
+
+.kanban-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 30px 0 30px 0;
+  gap: 30px;
+  justify-content: center;
+}
